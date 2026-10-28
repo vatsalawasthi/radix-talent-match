@@ -1,0 +1,429 @@
+[
+  {
+    "id": "ananya-rao",
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com",
+    "title": "Systems & Backend Engineer",
+    "archetype": "Systems-leaning generalist",
+    "fit_summary": "Strong fit for SWE-heavy roles (Google/MSFT SWE); weaker fit for Data Science / Data Analyst roles.",
+    "education": "B.Tech in Computer Science & Engineering, National Institute of Technology (NIT) Karnataka, GPA 8.9/10",
+    "preferred_roles": [
+      "Software Engineer (SWE)",
+      "Distributed Systems Engineer",
+      "Backend Infrastructure Engineer"
+    ],
+    "hackathons": [
+      "Finalist - Smart India Hackathon: Built high-throughput distributed IoT telemetry broker in Go",
+      "Winner - Open Source Kernel Hack: Wrote Linux eBPF network packet filter tool"
+    ],
+    "internships": [
+      "Systems Engineering Intern at CloudCore Tech (6 mos): Optimized multi-threaded C++ RPC service latency by 34%, wrote Linux kernel trace scripts",
+      "Backend Intern at InfraStack (4 mos): Implemented distributed Redis caching layer and gRPC endpoints in Go and Java"
+    ],
+    "certifications": [
+      "Linux Foundation Certified System Administrator (LFCS)",
+      "Certified Kubernetes Application Developer (CKAD)"
+    ],
+    "cv_file": "ananya_rao_systems_resume.pdf",
+    "raw_resume_text": "ANANYA RAO\nSystems-leaning Generalist | ananya.rao@example.com | Bengaluru, India | GitHub: ananyarao-sys\n\nEDUCATION\nB.Tech in Computer Science & Engineering, NIT Karnataka (2020-2024) - CGPA: 8.9/10\n\nTECHNICAL SKILLS\n- Languages: C++, Go, Java, Python, Bash\n- Core Competencies: Operating Systems (OS), Linux Kernel, Multithreading, Concurrency, Virtual Memory, POSIX\n- Data Structures & Algorithms (DSA): Advanced graphs, trees, dynamic programming, space-time complexity analysis\n- System Design (SYSD): Microservices, distributed consensus (Raft), message queues (Kafka), low-latency caching (Redis)\n- Cloud & DevOps (CLOUD): Docker, Kubernetes, GCP Compute Engine, Terraform, CI/CD pipelines\n- Software Engineering (SWE): Unit testing (GoogleTest, JUnit), Git, code reviews, profiling with Valgrind and perf\n- Networking (NETW): TCP/IP sockets, HTTP/2, gRPC, network packet routing, eBPF\n- Databases (SQL): PostgreSQL, basic relational query tuning\n\nWORK EXPERIENCE & INTERNSHIPS\nSystems Engineering Intern - CloudCore Tech (Jan 2024 - Jun 2024)\n- Architected high-performance C++ multi-threaded RPC daemon processing 50k requests/sec.\n- Analyzed Linux CPU scheduling anomalies and memory leaks using perf and gdb, reducing p99 latency by 34%.\n- Integrated automated GitHub Actions CI/CD pipeline running 200+ unit and integration tests.\n\nBackend Intern - InfraStack (May 2023 - Aug 2023)\n- Developed distributed key-value cache sync mechanism in Go with Raft leader election.\n- Configured Kubernetes deployments and Prometheus/Grafana service mesh metrics.\n\nPROJECTS & HACKATHONS\n- Distributed Event Log Engine: Custom Raft consensus log store in C++ supporting fault-tolerant replication.\n- eBPF Packet Filter: Kernel-space network packet inspection tool tracking dropped TCP packets.\n- SIH Hackathon Finalist: Scalable IoT streaming pipeline handling 100k events/sec.",
+    "skills": [
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "Developed high-performance multi-threaded C++ RPC daemon handling 50k req/sec",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Built distributed key-value cache sync mechanism in Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Java",
+        "category_code": "COD",
+        "evidence": "Implemented gRPC backend endpoints in Java",
+        "confidence": "medium"
+      },
+      {
+        "skill_name": "Data Structures & Algorithms",
+        "category_code": "DSA",
+        "evidence": "Advanced tree, graph, and dynamic programming implementation; 450+ solved problems",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Object-Oriented Design",
+        "category_code": "OOD",
+        "evidence": "Modular class hierarchy and clean design patterns in C++ distributed engine",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Aptitude & Problem Solving",
+        "category_code": "APTI",
+        "evidence": "Analytical system bottleneck resolution and mathematical latency profiling",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux OS Internals",
+        "category_code": "OS",
+        "evidence": "Deep understanding of process scheduling, threads, virtual memory, perf, and eBPF",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Distributed System Design",
+        "category_code": "SYSD",
+        "evidence": "Implemented Raft consensus log store with fault tolerance and caching",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Computer Networking",
+        "category_code": "NETW",
+        "evidence": "TCP/IP socket programming, gRPC, HTTP/2, and eBPF network packet inspection",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker & Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "CKAD certified; managed K8s deployments and GCP compute clusters",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Software Engineering Best Practices",
+        "category_code": "SWE",
+        "evidence": "Automated testing with GoogleTest, CI/CD, Git workflows, and strict code review",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Technical Communication",
+        "category_code": "COMM",
+        "evidence": "Authored system architecture design docs and presented SIH hackathon solution",
+        "confidence": "medium"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "Basic relational query construction and schema setup",
+        "confidence": "medium"
+      },
+      {
+        "skill_name": "Machine Learning",
+        "category_code": "AI",
+        "evidence": "Basic familiarity from college coursework; limited production ML experience",
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "id": "karthik-subramaniam",
+    "name": "Karthik Subramaniam",
+    "email": "karthik.subramaniam@example.com",
+    "title": "Data Scientist & Analytics Specialist",
+    "archetype": "Data-leaning analyst",
+    "fit_summary": "Strong fit for Data Scientist & Data Analyst roles (Google DS / MSFT DA); weaker fit for pure SWE/Systems roles.",
+    "education": "B.Tech in Artificial Intelligence & Data Science, IIT Madras, GPA 9.1/10",
+    "preferred_roles": [
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "Data Analyst"
+    ],
+    "hackathons": [
+      "1st Place - Kaggle Analytics Cup: Built ensemble gradient boosting pipeline with 94.2% AUC",
+      "Winner - Inter-College Datathon: Formulated predictive customer churn model with explainable AI (SHAP)"
+    ],
+    "internships": [
+      "Data Science Intern at MuSigma / QuantInsights (6 mos): Trained PyTorch NLP classification models and designed BigQuery feature pipelines",
+      "Business Intelligence Intern at RetailScale (4 mos): Built executive Power BI dashboards with complex SQL stored procedures and DAX measures"
+    ],
+    "certifications": [
+      "Google Cloud Certified Professional Data Engineer",
+      "Microsoft Certified: Power BI Data Analyst Associate"
+    ],
+    "cv_file": "karthik_subramaniam_data_resume.pdf",
+    "raw_resume_text": "KARTHIK SUBRAMANIAM\nData-Leaning Analyst & ML Specialist | karthik.subramaniam@example.com | Chennai, India\n\nEDUCATION\nB.Tech in Artificial Intelligence & Data Science, IIT Madras (2020-2024) - CGPA: 9.1/10\n\nTECHNICAL SKILLS\n- Programming: Python (NumPy, SciPy, Pandas, Scikit-Learn), R, SQL, basic Java\n- Artificial Intelligence & ML (AI): Deep Learning, PyTorch, HuggingFace Transformers, NLP, Regression, Random Forest, XGBoost\n- Databases & SQL (SQL): Advanced SQL, Window Functions, CTEs, Indexing, PostgreSQL, BigQuery, Snowflake\n- Aptitude & Quantitative (APTI): Statistical hypothesis testing, A/B experimentation, multivariate probability, Bayesian inference\n- Data Visualization & BI: Power BI (DAX, Power Query), Tableau, Seaborn, Plotly\n- Cloud Data (CLOUD): GCP Vertex AI, BigQuery, AWS S3, Databricks, Docker\n- Communication (COMM): Executive storytelling, translating data insights to business KPIs, research presentations\n- Software Engineering (SWE): Git, modular Python scripting, MLflow tracking, automated data unit tests\n\nPROFESSIONAL EXPERIENCE\nData Science Intern - QuantInsights (Jan 2024 - Jun 2024)\n- Trained transformer-based sentiment and classification models using PyTorch on 2M+ records.\n- Automated feature transformation pipelines on Google Cloud BigQuery saving 15 hours/week of data prep.\n- Performed rigorous A/B test power analysis and causal impact evaluation.\n\nBI & Analytics Intern - RetailScale (May 2023 - Aug 2023)\n- Designed 12 mission-critical Power BI dashboards tracking real-time inventory and revenue KPIs.\n- Authored complex SQL stored procedures with recursive CTEs and analytical window functions.\n\nPROJECTS & COMPETITIONS\n- 1st Place Kaggle Datathon: Ensembled LightGBM and CatBoost models achieving 94.2% AUC.\n- Causal Inference in Marketing: Applied propensity score matching in Python to measure campaign lift.",
+    "skills": [
+      {
+        "skill_name": "Python for Data Science",
+        "category_code": "COD",
+        "evidence": "Expert Python programming with Pandas, NumPy, Scikit-Learn and PyTorch",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Machine Learning & Deep Learning",
+        "category_code": "AI",
+        "evidence": "Trained transformers, XGBoost, and supervised/unsupervised models with PyTorch",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Advanced SQL & Data Warehousing",
+        "category_code": "SQL",
+        "evidence": "Complex SQL joins, window functions, CTEs, BigQuery, Snowflake, and PostgreSQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Statistical Aptitude & A/B Testing",
+        "category_code": "APTI",
+        "evidence": "Rigorous statistical inference, hypothesis testing, causal modeling, and probability math",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Storytelling & Communication",
+        "category_code": "COMM",
+        "evidence": "Presented executive data narratives and converted ambiguous requests into KPIs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud Machine Learning",
+        "category_code": "CLOUD",
+        "evidence": "Certified GCP Data Engineer; deployed models with Vertex AI and Docker",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Software Engineering",
+        "category_code": "SWE",
+        "evidence": "Version control with Git, MLflow experiment tracking, and test suites for data pipelines",
+        "confidence": "medium"
+      },
+      {
+        "skill_name": "Data Structures & Algorithms",
+        "category_code": "DSA",
+        "evidence": "Basic algorithmic understanding (arrays, hash maps, sorting); moderate DP/graph knowledge",
+        "confidence": "medium"
+      },
+      {
+        "skill_name": "Object-Oriented Design",
+        "category_code": "OOD",
+        "evidence": "Structured Python classes for data pipelines and scikit-learn transformers",
+        "confidence": "medium"
+      },
+      {
+        "skill_name": "System Design",
+        "category_code": "SYSD",
+        "evidence": "Data warehouse and ETL batch pipeline architecture; limited distributed consensus",
+        "confidence": "medium"
+      },
+      {
+        "skill_name": "Networking",
+        "category_code": "NETW",
+        "evidence": "REST API endpoints and basic HTTP request handling for model inference",
+        "confidence": "low"
+      },
+      {
+        "skill_name": "Operating Systems",
+        "category_code": "OS",
+        "evidence": "Basic bash commands in Linux environment; minimal kernel or low-level systems knowledge",
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "id": "priya-menon",
+    "name": "Priya Menon",
+    "email": "priya.menon@example.com",
+    "title": "Associate Software & Application Support Analyst",
+    "archetype": "Entry-level, support-oriented",
+    "fit_summary": "Best fit for Oracle Financial Services Software roles; weaker fit for Google / Microsoft high-bar SWE.",
+    "education": "B.Tech in Information Technology, Anna University, GPA 7.8/10",
+    "preferred_roles": [
+      "Application Support Analyst",
+      "Associate Software Engineer",
+      "Database Analyst"
+    ],
+    "hackathons": [
+      "Participant - College Webathon: Developed library book reservation portal using Java and MySQL",
+      "2nd Place - Tech Support Debug Jam: Identified and fixed 10 injected SQL and concurrency defects in 3 hours"
+    ],
+    "internships": [
+      "Application Support Intern at FinServ Tech (6 mos): Handled production incident triage, wrote SQL data patch scripts, and monitored Linux cron batch jobs",
+      "IT QA Intern at Apex Infotech (3 mos): Executed regression test plans and logged defects in Jira"
+    ],
+    "certifications": [
+      "Oracle Certified Associate: Java SE 8 Programmer",
+      "ITIL 4 Foundation in IT Service Management"
+    ],
+    "cv_file": "priya_menon_support_resume.docx",
+    "raw_resume_text": "PRIYA MENON\nEntry-level Software & Support Analyst | priya.menon@example.com | Chennai / Bengaluru\n\nEDUCATION\nB.Tech in Information Technology, Anna University (2020-2024) - CGPA: 7.8/10\n\nTECHNICAL SKILLS\n- Languages: Java (Core Java, Collections, JDBC), SQL, PL/SQL, Unix Shell Scripting (Bash)\n- Databases (SQL): Oracle Database, MySQL, Query Optimization, Stored Procedures, Triggers, Views\n- Operating Systems (OS): Unix / Linux CLI, file management, cron jobs, log analysis (grep, awk, tail)\n- Communication (COMM): High verbal and written skills, client support ticketing, shift handover notes, incident reports\n- Aptitude & Debugging (APTI): Root cause analysis (RCA), flowcharting, defect triage\n- Software Engineering (SWE): ITIL process compliance, Jira, Git, JUnit testing, regression verification\n- Networking (NETW): TCP/IP, DNS, SSL certificate renewals, HTTP status codes, REST testing with Postman\n\nPROFESSIONAL EXPERIENCE\nApplication Support Intern - FinServ Tech (Dec 2023 - May 2024)\n- Triaged tier-2 support tickets for transaction processing banking applications.\n- Authored and executed validated SQL updates and PL/SQL patches for data discrepancies.\n- Monitored nightly batch feeds on Red Hat Enterprise Linux; resolved job schedule halts.\n- Authored daily incident summaries and root-cause analysis documents for client management.\n\nQA / Testing Intern - Apex Infotech (Jun 2023 - Aug 2023)\n- Created manual test scripts and logged 45+ software defects in Jira.\n- Executed API validation tests using Postman and automated basic Java assertions.\n\nPROJECTS & ACADEMIC HIGHLIGHTS\n- Banking Account Transaction Simulator: Java application simulating deposits and transfers with ACID checks.\n- Unix Server Health Monitor: Shell script emailing system CPU, memory, and disk utilization alerts.",
+    "skills": [
+      {
+        "skill_name": "Core Java",
+        "category_code": "COD",
+        "evidence": "Certified Java SE 8 Programmer; built banking transaction simulator with JDBC",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Oracle SQL & PL/SQL",
+        "category_code": "SQL",
+        "evidence": "Wrote verified production SQL data patches, stored procedures, triggers, and joins",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Unix & Linux Operations",
+        "category_code": "OS",
+        "evidence": "Daily Linux log triage (grep, awk, tail), server health monitoring, and cron batch automation",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Client & Team Communication",
+        "category_code": "COMM",
+        "evidence": "ITIL incident documentation, executive RCA reporting, and cross-team shift handovers",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Aptitude & Problem Triage",
+        "category_code": "APTI",
+        "evidence": "Structured root-cause analysis of live production data issues and logical debugging",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Object-Oriented Design",
+        "category_code": "OOD",
+        "evidence": "Clear OOP concepts in Java (inheritance, interfaces, encapsulation) for banking models",
+        "confidence": "medium"
+      },
+      {
+        "skill_name": "Software Engineering & ITIL",
+        "category_code": "SWE",
+        "evidence": "Jira defect tracking, ITIL service operations, regression testing, and version control",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Networking Basics",
+        "category_code": "NETW",
+        "evidence": "HTTP/REST verification via Postman, SSL status verification, and DNS ping troubleshooting",
+        "confidence": "medium"
+      },
+      {
+        "skill_name": "Data Structures & Algorithms",
+        "category_code": "DSA",
+        "evidence": "Standard array, string, and hash table manipulation; beginner level on graphs/DP",
+        "confidence": "medium"
+      },
+      {
+        "skill_name": "Cloud Infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Basic awareness of AWS EC2 and Oracle OCI console management",
+        "confidence": "low"
+      },
+      {
+        "skill_name": "Distributed System Design",
+        "category_code": "SYSD",
+        "evidence": "Basic batch processing architecture; limited distributed consensus or high-scale streaming",
+        "confidence": "low"
+      },
+      {
+        "skill_name": "Artificial Intelligence",
+        "category_code": "AI",
+        "evidence": "Introductory conceptual awareness; no hands-on ML modeling experience",
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "id": "rohan-verma",
+    "name": "Rohan Verma",
+    "email": "rohan.verma@example.com",
+    "title": "Full-Stack Software Engineer & Competitive Programmer",
+    "archetype": "Strong all-rounder",
+    "fit_summary": "Competitive fit across nearly every role in the hackathon pack (Google SWE/DS, MSFT SWE/DA, Oracle SWE).",
+    "education": "B.Tech in Computer Science & Engineering, BITS Pilani, GPA 9.4/10",
+    "preferred_roles": [
+      "Software Engineer (SWE)",
+      "Full Stack Developer",
+      "Cloud & Systems Engineer"
+    ],
+    "hackathons": [
+      "Winner - Google Developer Student Clubs Hackathon: Led 4-person team building distributed AI search engine",
+      "Finalist - Microsoft Imagine Cup: Engineered real-time collaborative code editor with WebSockets and OT",
+      "Grand Finalist - Smart India Hackathon: Built blockchain-backed credential verification portal"
+    ],
+    "internships": [
+      "Software Engineering Intern at Zeta / Directi (6 mos): Built distributed fintech microservices in Java/Spring Boot and Go, handled 10M daily transactions",
+      "Full Stack Intern at UrbanTech (3 mos): Engineered React frontend and Node/Python backend with AWS ECS and Docker"
+    ],
+    "certifications": [
+      "AWS Certified Solutions Architect - Associate",
+      "HackerRank 6-Star Problem Solving & LeetCode Knight (Top 3% globally, 700+ problems)"
+    ],
+    "cv_file": "rohan_verma_allrounder_resume.pdf",
+    "raw_resume_text": "ROHAN VERMA\nStrong All-Rounder & High-Performance SWE | rohan.verma@example.com | Hyderabad / Bengaluru\n\nEDUCATION\nB.Tech in Computer Science & Engineering, BITS Pilani (2020-2024) - CGPA: 9.4/10\n\nTECHNICAL SKILLS\n- Languages: Java, Python, TypeScript, Go, C++, SQL\n- Data Structures & Algorithms (DSA): LeetCode Knight (Rating 2050+, 700+ problems), advanced DP, graphs, trees, amortized complexity\n- Coding & Software Engineering (COD/SWE): Clean Architecture, SOLID, TDD, CI/CD with GitHub Actions, Docker, Kubernetes\n- System Design (SYSD): Microservices, Distributed Systems, High Availability, Caching (Redis), Kafka, Event-driven architecture\n- Cloud (CLOUD): AWS (Solutions Architect certified), GCP, Terraform, Serverless, Microservices\n- Databases & SQL (SQL): PostgreSQL, MongoDB, Redis, Schema optimization, Transaction isolation\n- Operating Systems (OS): Linux internals, Concurrency, Multithreading, Thread pools, Memory profiling\n- Communication & Leadership (COMM): Team Lead for 3 winning hackathons, published tech articles, mentor to 50+ students\n- AI & Data: PyTorch foundations, LangChain, OpenAI APIs, vector databases (Pinecone), Pandas\n\nWORK EXPERIENCE & INTERNSHIPS\nSoftware Engineering Intern - Zeta (Jan 2024 - Jun 2024)\n- Architected high-throughput payment processing microservice handling 10M daily transactions in Java / Spring Boot.\n- Designed distributed Kafka event stream with idempotent consumers and Redis caching, cutting p95 response time to 18ms.\n- Wrote end-to-end integration tests achieving 92% code coverage; automated Docker container builds.\n\nFull Stack Intern - UrbanTech (May 2023 - Jul 2023)\n- Built interactive customer web portal in React / TypeScript and optimized backend API latency in Python FastAPI.\n- Configured AWS ECS Fargate containers and CloudWatch monitoring dashboards.\n\nCOMPETITIVE PROGRAMMING & HACKATHONS\n- GDSC Hackathon 1st Place: Architected real-time semantic document search engine using FastAPI and vector embeddings.\n- LeetCode Knight: Top 3% globally with 700+ solved problems across graph algorithms, segment trees, and DP.",
+    "skills": [
+      {
+        "skill_name": "Java & Spring Boot",
+        "category_code": "COD",
+        "evidence": "Engineered high-throughput fintech microservices handling 10M daily transactions",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Python & TypeScript",
+        "category_code": "COD",
+        "evidence": "Built FastAPI backends and modern React/TypeScript user interfaces",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Advanced Data Structures & Algorithms",
+        "category_code": "DSA",
+        "evidence": "LeetCode Knight rating (2050+), 700+ problems solved across DP, graphs, trees",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Object-Oriented Design",
+        "category_code": "OOD",
+        "evidence": "Solid patterns, dependency injection, and clean architecture in production microservices",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Distributed System Design",
+        "category_code": "SYSD",
+        "evidence": "Designed Kafka event streams, Redis caching, microservices, and idempotent payment handling",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "AWS & Cloud Architecture",
+        "category_code": "CLOUD",
+        "evidence": "AWS Certified Solutions Architect; managed ECS, Docker, K8s, and Terraform deployments",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Relational & NoSQL Databases",
+        "category_code": "SQL",
+        "evidence": "Optimized PostgreSQL schemas, indexes, transaction isolation, and Redis key-value structures",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Software Engineering Excellence",
+        "category_code": "SWE",
+        "evidence": "Achieved 92% test coverage with JUnit/Mockito, automated CI/CD pipelines, code reviews",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Operating Systems & Concurrency",
+        "category_code": "OS",
+        "evidence": "Multithreading, thread pools, Linux memory profiling, and high-concurrency throughput optimization",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Computer Networking",
+        "category_code": "NETW",
+        "evidence": "RESTful APIs, WebSockets, gRPC, TCP connections, and reverse proxy routing",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Artificial Intelligence & LLMs",
+        "category_code": "AI",
+        "evidence": "Integrated LangChain, OpenAI APIs, vector databases (Pinecone), and Python ML libraries",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Technical Communication & Leadership",
+        "category_code": "COMM",
+        "evidence": "Led multiple winning hackathon teams, authored technical RFCs, and mentored junior developers",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Analytical Aptitude",
+        "category_code": "APTI",
+        "evidence": "Top-percentile competitive programming aptitude and algorithmic edge-case mastery",
+        "confidence": "high"
+      }
+    ]
+  }
+]

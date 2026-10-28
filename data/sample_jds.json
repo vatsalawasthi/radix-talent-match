@@ -1,0 +1,62 @@
+[
+  {
+    "id": "google-swe",
+    "company": "Google LLC",
+    "role": "Software Engineer (SWE)",
+    "location": "Bengaluru, India (Hybrid)",
+    "experience_level": "Mid-Level",
+    "file_name": "google_swe_bengaluru.pdf",
+    "summary": "Build scalable systems, distributed infrastructure, and high-throughput backend services powering Google Search and Cloud services.",
+    "raw_text": "Role: Software Engineer (SWE)\nCompany: Google LLC\nLocation: Bengaluru, India (Hybrid)\n\nKey Responsibilities:\n- Design, build, deploy and maintain high-performance, fault-tolerant distributed systems in C++, Java, or Go.\n- Apply deep knowledge of Data Structures & Algorithms (DSA) to optimize low-latency data pipelines and compute services.\n- Architect scalable systems with clean Object-Oriented Design (OOD) and modular microservice boundaries.\n- Debug complex concurrency, multithreading, and memory bottlenecks across Linux Operating Systems (OS).\n- Collaborate with cross-functional teams, participate in rigorous code reviews, write automated unit/integration tests, and adhere to SWE best practices.\n- Build resilient cloud-native services leveraging GCP, containerization, and networking protocols (TCP/IP, HTTP/2, gRPC).\n\nWhat We're Looking For:\n- Bachelor's degree in Computer Science, related technical field, or equivalent practical experience.\n- Proficiency in C++, Java, Go, or Python (COD).\n- Proven problem-solving ability with advanced algorithms, dynamic programming, and complexity analysis (DSA).\n- Experience designing distributed systems (SYSD), high availability architectures, and caching layers.\n- Strong grounding in Operating Systems (OS) concepts: process scheduling, threads, virtual memory, and POSIX APIs.\n- Familiarity with Cloud architectures (GCP/AWS), container orchestration (Kubernetes), and CI/CD pipelines (SWE).\n- Effective verbal and written technical communication skills (COMM)."
+  },
+  {
+    "id": "google-ds",
+    "company": "Google LLC",
+    "role": "Data Scientist",
+    "location": "Bengaluru, India",
+    "experience_level": "Mid to Senior",
+    "file_name": "google_data_scientist_bengaluru.pdf",
+    "summary": "Develop advanced machine learning algorithms, causal inference frameworks, and statistical models on planet-scale datasets.",
+    "raw_text": "Role: Data Scientist\nCompany: Google LLC\nLocation: Bengaluru, India\n\nKey Responsibilities:\n- Formulate business and product questions into mathematical, statistical, and Machine Learning (AI) problem formulations.\n- Build, train, validate, and deploy end-to-end deep learning and LLM foundation models using PyTorch, TensorFlow, and Python (COD).\n- Query, transform, and aggregate terabyte-scale distributed data stores using advanced SQL and distributed compute frameworks (BigQuery, Spark).\n- Conduct rigorous A/B experiments, statistical hypothesis testing, and causal inference modeling (APTI).\n- Collaborate with Software Engineering (SWE) and product teams to translate model outputs into production infrastructure.\n- Present insights, data narratives, and model performance metrics clearly to cross-functional leadership (COMM).\n\nWhat We're Looking For:\n- Degree in Data Science, Statistics, Computer Science, Operations Research, or related quantitative field.\n- Expert Python coding (NumPy, SciPy, Pandas, Scikit-Learn) and strong SQL data analysis skills.\n- Deep expertise in Artificial Intelligence (AI), supervised/unsupervised learning, NLP, transformers, and neural network optimization.\n- Strong aptitude (APTI) in mathematical reasoning, probability, linear algebra, and multivariate statistics.\n- Hands-on experience with cloud-based machine learning pipelines (GCP Vertex AI, AWS SageMaker) (CLOUD).\n- Solid software engineering practices: version control (Git), reproducible experimentation, automated evaluation (SWE)."
+  },
+  {
+    "id": "msft-swe",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Hyderabad, India",
+    "experience_level": "Mid-Level",
+    "file_name": "microsoft_swe_hyderabad.docx",
+    "summary": "Design and engineer resilient enterprise cloud services and scalable distributed platforms on Azure.",
+    "raw_text": "Role: Software Engineer\nCompany: Microsoft Corporation\nLocation: Hyderabad, India\n\nKey Responsibilities:\n- Design, implement, and maintain highly available cloud microservices using C#, TypeScript, Java, or C++ (COD).\n- Architect enterprise-grade distributed systems on Microsoft Azure (CLOUD), utilizing Kubernetes, Azure Functions, and Event Hubs.\n- Apply Object-Oriented Design (OOD) principles, clean architecture patterns, and domain-driven design.\n- Implement comprehensive automated testing (unit, integration, end-to-end), CI/CD pipelines in Azure DevOps, and telemetry monitoring (SWE).\n- Optimize relational and distributed NoSQL databases (SQL Server, CosmosDB, PostgreSQL) for high-concurrency workloads.\n- Partner with PMs, architects, and designers across international time zones to deliver world-class developer experiences (COMM).\n\nWhat We're Looking For:\n- B.Tech/M.Tech in Computer Science, Engineering, or equivalent experience.\n- Solid coding skills in C#, C++, Java, or modern TypeScript/JavaScript (COD).\n- Proficiency in Data Structures & Algorithms (DSA): search, trees, graphs, sorting, and algorithmic efficiency.\n- Hands-on expertise in Cloud computing (Azure or AWS), containerization (Docker), and microservices architecture.\n- Strong understanding of System Design (SYSD), event-driven architectures, rate limiting, and asynchronous queuing.\n- Practical database design (SQL), schema normalization, and query performance tuning.\n- High standards of Software Engineering (SWE): code reviews, refactoring, and automated deployment."
+  },
+  {
+    "id": "msft-da",
+    "company": "Microsoft Corporation",
+    "role": "Data Analyst",
+    "location": "Hyderabad, India",
+    "experience_level": "Junior to Mid",
+    "file_name": "microsoft_data_analyst_hyderabad.docx",
+    "summary": "Drive business intelligence, telemetry analysis, and executive dashboarding across Microsoft product ecosystems.",
+    "raw_text": "Role: Data Analyst\nCompany: Microsoft Corporation\nLocation: Hyderabad, India\n\nKey Responsibilities:\n- Author performant SQL queries, stored procedures, and ETL pipelines to extract and process telemetry from multiple enterprise databases (SQL).\n- Design dynamic, interactive executive reporting dashboards and KPI scorecards using Power BI, Excel, and Tableau.\n- Perform exploratory data analysis, trend identification, anomaly detection, and predictive analytics using Python or R (COD/AI).\n- Apply statistical aptitude (APTI) to analyze customer retention, user funnels, telemetry logs, and adoption metrics.\n- Translate ambiguous stakeholder requests into crisp analytical requirements and communicate data stories effectively (COMM).\n- Maintain data governance, data cataloging, and automated data quality validation pipelines (SWE).\n\nWhat We're Looking For:\n- Bachelor's degree in Mathematics, Computer Science, Statistics, Information Systems, or related discipline.\n- Mastery of SQL (complex joins, CTEs, window functions, indexing, and partitioning).\n- Analytical problem-solving aptitude (APTI) and quantitative reasoning.\n- Practical Python programming (COD) with Pandas, Matplotlib, and Seaborn for statistical data wrangling.\n- Proven experience with Power BI or enterprise BI visualization suites.\n- Excellent stakeholder communication and presentation skills (COMM)."
+  },
+  {
+    "id": "oracle-swe",
+    "company": "Oracle Financial Services Software",
+    "role": "Associate Software Engineer",
+    "location": "Bengaluru / Mumbai, India",
+    "experience_level": "Entry to Mid",
+    "file_name": "oracle_fss_associate_swe.pdf",
+    "summary": "Develop and enhance core banking transaction engines, payment gateways, and enterprise financial software suites.",
+    "raw_text": "Role: Associate Software Engineer\nCompany: Oracle Financial Services Software (OFSS)\nLocation: Bengaluru / Mumbai, India\n\nKey Responsibilities:\n- Develop, customize, and maintain core banking and financial solutions using Java, J2EE, Spring Boot, and PL/SQL (COD/SQL).\n- Build robust relational database models, write complex stored procedures, triggers, and query optimizations in Oracle Database (SQL).\n- Apply Object-Oriented Design (OOD) patterns, dependency injection, and modular service contracts.\n- Ensure strict compliance with financial regulations, security standards (TLS/SSL, OAuth2), and data transaction integrity (ACID).\n- Write automated unit tests using JUnit/Mockito, participate in sprint ceremonies, and manage code via Git (SWE).\n- Integrate financial messaging protocols (ISO 20022, SWIFT) and RESTful web services across secure networks (NETW).\n\nWhat We're Looking For:\n- B.E. / B.Tech / MCA in Computer Science, Information Technology, or relevant degree.\n- Solid core Java programming skills (collections, multithreading, exception handling) (COD).\n- High proficiency in relational databases and SQL / PL/SQL (tables, views, indexes, query plans) (SQL).\n- Good grasp of Object-Oriented Design principles (OOD) and design patterns.\n- Strong aptitude (APTI) for financial math, logical flowcharts, and edge-case handling.\n- Basic understanding of Unix/Linux OS commands and shell scripting (OS).\n- Team player with clear technical and interpersonal communication skills (COMM)."
+  },
+  {
+    "id": "oracle-support",
+    "company": "Oracle Financial Services Software",
+    "role": "Application Support Analyst",
+    "location": "Bengaluru / Chennai, India",
+    "experience_level": "Entry-Level",
+    "file_name": "oracle_fss_app_support_analyst.docx",
+    "summary": "Provide tier-2/3 production support, incident triage, SQL data patching, and Linux batch monitoring for global banking clients.",
+    "raw_text": "Role: Application Support Analyst\nCompany: Oracle Financial Services Software (OFSS)\nLocation: Bengaluru / Chennai, India\n\nKey Responsibilities:\n- Monitor and troubleshoot 24x7 mission-critical banking applications, batch end-of-day (EOD) processing, and transaction interfaces.\n- Perform root cause analysis (RCA) on production incidents, triage system errors, and execute verified SQL data fixes (SQL).\n- Write and run Unix/Linux shell scripts, automate recurring maintenance jobs, and monitor server resource utilization (OS).\n- Track incidents, change requests, and service requests using Jira and ServiceNow, adhering to strict SLAs.\n- Verify network connectivity, API payloads, port status, and banking protocol handshake logs (NETW).\n- Coordinate communications between bank client operations teams, software engineering, and infrastructure architects (COMM).\n\nWhat We're Looking For:\n- Degree in Computer Science, IT, BCA/MCA, or related engineering discipline.\n- Strong working knowledge of SQL and Oracle Database (queries, updates, joins, troubleshooting locks) (SQL).\n- Proficiency in Unix/Linux commands, shell scripting, and log inspection (grep, awk, sed, cron) (OS).\n- High aptitude (APTI) for debugging, process flowcharting, and incident triage under pressure.\n- Exceptional verbal and written communication skills (COMM) for client-facing and internal communication.\n- Basic familiarity with networking concepts (DNS, TCP/IP, ping, traceroute, SSL certificates) (NETW).\n- Disciplined approach to ITIL incident and change management workflows (SWE)."
+  }
+]
