@@ -1,0 +1,98 @@
+[
+  {
+    "id": "m0",
+    "role": "Whole Team",
+    "title": "Data Contract & Schema Lock",
+    "description": "Lock the 12 RADIX categories (COD, DSA, OOD, APTI, COMM, AI, CLOUD, SQL, SWE, SYSD, NETW, OS) and JSON shapes.",
+    "status": "Done",
+    "owner": "Whole Team"
+  },
+  {
+    "id": "m1",
+    "role": "JD Analytics (Role 1)",
+    "title": "JD Document Ingestion",
+    "description": "Extract raw text from PDF, DOCX, and text input for all 6 hackathon JDs.",
+    "status": "Done",
+    "owner": "Role 1 Lead"
+  },
+  {
+    "id": "m2",
+    "role": "JD Analytics (Role 1)",
+    "title": "12-Skillset Taxonomy Mapping",
+    "description": "Map requirements to the 12 RADIX categories with quotes, confidence, and weights.",
+    "status": "Done",
+    "owner": "Role 1 Lead"
+  },
+  {
+    "id": "m3",
+    "role": "Resume Parsing (Role 2)",
+    "title": "Resume Ingestion & Entity Parsing",
+    "description": "Parse candidates across PDF/DOCX into education, internships, projects, and contact info.",
+    "status": "Done",
+    "owner": "Role 2 Lead"
+  },
+  {
+    "id": "m4",
+    "role": "Resume Parsing (Role 2)",
+    "title": "Candidate Technical Signal Extraction",
+    "description": "Extract technical skills with evidence quotes and confidence scores.",
+    "status": "Done",
+    "owner": "Role 2 Lead"
+  },
+  {
+    "id": "m5",
+    "role": "Profile Builder (Role 3)",
+    "title": "Profile Editor & Pre-fill Pipeline",
+    "description": "Interactive form pre-filled from resume parsing output with validation.",
+    "status": "Done",
+    "owner": "Role 3 Lead"
+  },
+  {
+    "id": "m6",
+    "role": "Profile Builder (Role 3)",
+    "title": "Save/Load & JSON Persistence Loop",
+    "description": "Persist profiles locally with import/export capabilities according to Page 10 contract.",
+    "status": "Done",
+    "owner": "Role 3 Lead"
+  },
+  {
+    "id": "m7",
+    "role": "Talent Check (Role 4)",
+    "title": "Company Bar Comparison Engine",
+    "description": "Score candidate against Google, Microsoft, and Oracle benchmarks across all 12 categories.",
+    "status": "Done",
+    "owner": "Role 4 Lead"
+  },
+  {
+    "id": "m8",
+    "role": "Talent Check (Role 4)",
+    "title": "Gap Visualizations & Readiness Ring",
+    "description": "Generate 0-100 readiness score, 12-category Radar Chart, and category gap alerts.",
+    "status": "Done",
+    "owner": "Role 4 Lead"
+  },
+  {
+    "id": "m9",
+    "role": "Skill Matching (Role 5)",
+    "title": "Fuzzy & Semantic Skill Matcher",
+    "description": "Compare candidate against specific JD requirements with fuzzy similarity and category alignment.",
+    "status": "Done",
+    "owner": "Role 5 Lead"
+  },
+  {
+    "id": "m10",
+    "role": "Skill Matching (Role 5)",
+    "title": "Gap Breakdown & Actionable Guidance",
+    "description": "Identify matched skills, missing skills, strengths, and role-specific recommendations.",
+    "status": "Done",
+    "owner": "Role 5 Lead"
+  },
+  {
+    "id": "m11",
+    "role": "Scrum Master",
+    "title": "End-to-End 5-Step Integration",
+    "description": "Wire all 5 pieces into one smooth pipeline: Pick JD -> Parse Resume -> Build Profile -> Talent Check -> Skill Matching.",
+    "status": "Done",
+    "owner": "Scrum Master"
+  }
+]

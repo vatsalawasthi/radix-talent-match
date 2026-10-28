@@ -11,5 +11,3 @@
         sync: false
       - key: MONGODB_DB_NAME
         value: radix_talent_match
-      - key: OPENAI_API_KEY
-        sync: false

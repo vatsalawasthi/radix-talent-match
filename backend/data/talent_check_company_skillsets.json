@@ -1,0 +1,251 @@
+{
+  "companies": {
+    "Google LLC": {
+      "company_name": "Google LLC",
+      "tagline": "Search, Cloud, and AI at Global Scale",
+      "locations": [
+        "Bengaluru, India (Hybrid)"
+      ],
+      "description": "High algorithmic rigor with intense focus on DSA, System Design, Operating Systems, and clean scalable coding.",
+      "skillsets": {
+        "COD": {
+          "name": "Coding",
+          "required_level": 9,
+          "importance": "critical",
+          "description": "High fluency in modern C++, Java, Python, or Go; production-grade readability and correctness"
+        },
+        "DSA": {
+          "name": "Data Structures & Algorithms",
+          "required_level": 9,
+          "importance": "critical",
+          "description": "Deep understanding of complexity, graph algorithms, dynamic programming, and data structures"
+        },
+        "OOD": {
+          "name": "Object-Oriented Design",
+          "required_level": 8,
+          "importance": "high",
+          "description": "SOLID principles, modular patterns, clear interface boundaries"
+        },
+        "APTI": {
+          "name": "Aptitude",
+          "required_level": 8,
+          "importance": "high",
+          "description": "Rigorous analytical problem-solving and structured edge-case reasoning"
+        },
+        "COMM": {
+          "name": "Communication",
+          "required_level": 7,
+          "importance": "medium",
+          "description": "Crisp technical articulation, clear code reviews and design docs"
+        },
+        "AI": {
+          "name": "Artificial Intelligence",
+          "required_level": 7,
+          "importance": "medium",
+          "description": "Core ML foundations, statistical inference, model integration"
+        },
+        "CLOUD": {
+          "name": "Cloud",
+          "required_level": 8,
+          "importance": "high",
+          "description": "GCP/distributed compute, containers, Kubernetes, microservices"
+        },
+        "SQL": {
+          "name": "SQL & Databases",
+          "required_level": 7,
+          "importance": "medium",
+          "description": "Query performance, transactions, relational vs NoSQL storage"
+        },
+        "SWE": {
+          "name": "Software Engineering",
+          "required_level": 9,
+          "importance": "critical",
+          "description": "Automated unit/integration testing, CI/CD, Git workflows, debugging"
+        },
+        "SYSD": {
+          "name": "System Design",
+          "required_level": 8,
+          "importance": "critical",
+          "description": "Scalability, high availability, caching, message queues, distributed consensus"
+        },
+        "NETW": {
+          "name": "Networking",
+          "required_level": 7,
+          "importance": "medium",
+          "description": "TCP/IP, HTTP/2 & HTTP/3, gRPC, load balancers, CDN routing"
+        },
+        "OS": {
+          "name": "Operating Systems",
+          "required_level": 8,
+          "importance": "high",
+          "description": "Concurrency, multithreading, Linux internals, memory management"
+        }
+      }
+    },
+    "Microsoft Corporation": {
+      "company_name": "Microsoft Corporation",
+      "tagline": "Empowering Every Person and Organization",
+      "locations": [
+        "Hyderabad, India"
+      ],
+      "description": "Enterprise cloud scale emphasis on Software Engineering, Azure Cloud, System Design, and strong engineering fundamentals.",
+      "skillsets": {
+        "COD": {
+          "name": "Coding",
+          "required_level": 8,
+          "importance": "critical",
+          "description": "Clean, maintainable code in C#, TypeScript/JavaScript, C++, or Python"
+        },
+        "DSA": {
+          "name": "Data Structures & Algorithms",
+          "required_level": 8,
+          "importance": "high",
+          "description": "Efficient algorithm selection, tree/graph traversal, space-time trade-offs"
+        },
+        "OOD": {
+          "name": "Object-Oriented Design",
+          "required_level": 8,
+          "importance": "high",
+          "description": "Enterprise design patterns, domain-driven design, robust class hierarchies"
+        },
+        "APTI": {
+          "name": "Aptitude",
+          "required_level": 7,
+          "importance": "medium",
+          "description": "Logical deduction, algorithmic thinking, and problem decomposition"
+        },
+        "COMM": {
+          "name": "Communication",
+          "required_level": 8,
+          "importance": "high",
+          "description": "Cross-discipline teamwork, technical documentation, stakeholder communication"
+        },
+        "AI": {
+          "name": "Artificial Intelligence",
+          "required_level": 7,
+          "importance": "medium",
+          "description": "Azure OpenAI integration, ML pipelines, prompt engineering, data analytics"
+        },
+        "CLOUD": {
+          "name": "Cloud",
+          "required_level": 9,
+          "importance": "critical",
+          "description": "Azure/AWS architecture, Docker, serverless, resilient cloud infra"
+        },
+        "SQL": {
+          "name": "SQL & Databases",
+          "required_level": 8,
+          "importance": "high",
+          "description": "Relational schema design, SQL optimization, CosmosDB, ACID guarantees"
+        },
+        "SWE": {
+          "name": "Software Engineering",
+          "required_level": 9,
+          "importance": "critical",
+          "description": "Agile methodologies, test-driven development, code reviews, telemetry"
+        },
+        "SYSD": {
+          "name": "System Design",
+          "required_level": 8,
+          "importance": "high",
+          "description": "Distributed services, event streaming, caching, fault tolerance"
+        },
+        "NETW": {
+          "name": "Networking",
+          "required_level": 7,
+          "importance": "medium",
+          "description": "RESTful APIs, RPC, TLS/SSL, network topologies, DNS"
+        },
+        "OS": {
+          "name": "Operating Systems",
+          "required_level": 7,
+          "importance": "medium",
+          "description": "Process scheduling, threading, virtualization, Windows & Linux environments"
+        }
+      }
+    },
+    "Oracle Financial Services Software": {
+      "company_name": "Oracle Financial Services Software",
+      "tagline": "Transforming Global Banking & Financial Tech",
+      "locations": [
+        "Bengaluru / Mumbai, India",
+        "Bengaluru / Chennai, India"
+      ],
+      "description": "Mission-critical financial systems requiring high SQL/database proficiency, enterprise Java/OOD, reliability, and business logic clarity.",
+      "skillsets": {
+        "COD": {
+          "name": "Coding",
+          "required_level": 7,
+          "importance": "high",
+          "description": "Solid Java, SQL, PL/SQL, or C++ application coding and bug fixing"
+        },
+        "DSA": {
+          "name": "Data Structures & Algorithms",
+          "required_level": 6,
+          "importance": "medium",
+          "description": "Practical algorithmic manipulation, sorting, hashing, and list processing"
+        },
+        "OOD": {
+          "name": "Object-Oriented Design",
+          "required_level": 8,
+          "importance": "high",
+          "description": "Strong encapsulation, inheritance, enterprise Java EE patterns"
+        },
+        "APTI": {
+          "name": "Aptitude",
+          "required_level": 7,
+          "importance": "high",
+          "description": "Financial logic, quantitative reasoning, debugging edge cases"
+        },
+        "COMM": {
+          "name": "Communication",
+          "required_level": 8,
+          "importance": "high",
+          "description": "Client interaction, production support handover, incident reporting"
+        },
+        "AI": {
+          "name": "Artificial Intelligence",
+          "required_level": 5,
+          "importance": "low",
+          "description": "Basic predictive modeling, fraud detection logic or analytics awareness"
+        },
+        "CLOUD": {
+          "name": "Cloud",
+          "required_level": 7,
+          "importance": "medium",
+          "description": "Oracle Cloud Infrastructure (OCI), containerization, basic deployment"
+        },
+        "SQL": {
+          "name": "SQL & Databases",
+          "required_level": 9,
+          "importance": "critical",
+          "description": "Expert PL/SQL, complex stored procedures, indexing, transaction integrity"
+        },
+        "SWE": {
+          "name": "Software Engineering",
+          "required_level": 8,
+          "importance": "high",
+          "description": "Release management, regression testing, production change controls"
+        },
+        "SYSD": {
+          "name": "System Design",
+          "required_level": 6,
+          "importance": "medium",
+          "description": "Batch processing architectures, high-transaction banking workflows"
+        },
+        "NETW": {
+          "name": "Networking",
+          "required_level": 7,
+          "importance": "medium",
+          "description": "Secure socket connections, banking messaging protocols, VPNs, REST"
+        },
+        "OS": {
+          "name": "Operating Systems",
+          "required_level": 6,
+          "importance": "medium",
+          "description": "Unix/Linux shell scripting, server monitoring, cron automation"
+        }
+      }
+    }
+  }
+}
